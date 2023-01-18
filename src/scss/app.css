@@ -199,7 +199,8 @@ html {
   font-size: 10rem;
   flex-flow: column;
 }
-.main .discounts {
+
+.discounts {
   visibility: hidden;
 }
 
